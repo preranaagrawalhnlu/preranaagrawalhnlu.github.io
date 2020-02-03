@@ -16,7 +16,8 @@ baseurl:          https://nitinvinayak.github.io/hyde/
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
-
+plugins:
+  - jekyll-paginate
 paginate:         5
 
 # Custom vars
