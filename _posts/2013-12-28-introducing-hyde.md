@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 ---
-
+ <img src="public\apple-touch-icon-144-precomposed.png" alt="profile picture">
 Hi! I’m Nitin Vinayak Agrawal, a Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
 
 ### Built on Poole
