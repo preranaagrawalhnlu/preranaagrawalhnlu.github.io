@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi! I’m Nitin Vinayak Agrawal, a Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
 
 ### Built on Poole
 
