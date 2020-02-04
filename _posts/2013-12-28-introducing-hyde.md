@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 ---
  <img src="public\apple-touch-icon-144-precomposed.png" alt="profile picture" class="center">
