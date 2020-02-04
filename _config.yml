@@ -18,7 +18,6 @@ author:
   url:            https://twitter.com/mdo
 plugins:
   - jekyll-paginate
-  - jekyll-include-cache
 paginate:         5
 gems:
 - jekyll-gist
