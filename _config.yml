@@ -10,7 +10,7 @@ permalink:        pretty
 title:            '   Nitin Vinayak Agrawal   '
 tagline:          'A Data Science Enthusiast'
 description:      ''
-url:              http://hyde.getpoole.com
+url:              
 baseurl:          https://nitinvinayak.github.io/
 
 author:
@@ -25,5 +25,5 @@ gems:
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:          https://github.com/nitinvinayak/
+  repo:          https://github.com/nitinvinayak/nitinvinayak.github.io
