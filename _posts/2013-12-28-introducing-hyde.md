@@ -6,6 +6,7 @@ title: About Me
 Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
 
 ### Skills Acquired along with Certificates
+
 Machine Learning:
 
 * [Machine Learning ](https://www.coursera.org/account/accomplishments/certificate/LZNP6ZD7UREZ)taught by Andrew Ng
@@ -15,14 +16,17 @@ Machine Learning:
 Deep Learning:
 
 * [Neural Networks and Deep Learning ](https://www.coursera.org/account/accomplishments/certificate/QLV9RLV28A2S) by deeplearning.ai
-* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization ](https://www.coursera.org/account/accomplishments/certificate/FWP8ELDYTEH5)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization ](https://www.coursera.org/account/accomplishments/certificate/FWP8ELDYTEH5)by deeplearning.ai
 * [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/DBJW28EKMP5Q) by deeplearning.ai
 
+Artificial Intelligence:
+
+* [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/6JSTGBW47UF4) by deeplearning.ai
 ### Hyde features
 
 In addition to the features of Poole, Hyde adds the following:
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
+
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
 * [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
 
