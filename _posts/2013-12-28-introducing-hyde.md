@@ -9,7 +9,7 @@ Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani
 
 Deep Learning:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
+* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/QLV9RLV28A2S)
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
