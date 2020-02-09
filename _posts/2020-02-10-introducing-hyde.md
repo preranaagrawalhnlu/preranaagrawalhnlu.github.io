@@ -22,9 +22,10 @@ Deep Learning:
 Artificial Intelligence:
 
 * [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/6JSTGBW47UF4) by deeplearning.ai
-### Hyde features
 
-In addition to the features of Poole, Hyde adds the following:
+### Academic Courses Completed
+
+Courses done as a part of [Data Science Minor] at BITS Pilani:
 
 
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
