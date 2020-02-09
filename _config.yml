@@ -11,7 +11,7 @@ title:            '   Nitin Vinayak Agrawal   '
 tagline:          'A Data Science Enthusiast'
 description:      ''
 url:              
-baseurl:          https://nitinvinayak.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
