@@ -5,9 +5,9 @@ title: About Me
  <img src="public\apple-touch-icon-144-precomposed.png" alt="profile picture" class="center">
 Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
 
-### Built on Poole
+### Skills Acquired
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+Deep Learning:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
