@@ -6,12 +6,15 @@ title: About Me
 Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
 
 ### Skills Acquired
+Machine Learning:
+
+*[Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/certificate/LZNP6ZD7UREZ)
 
 Deep Learning:
 
-* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/QLV9RLV28A2S)
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
+* [Neural Networks and Deep Learning by deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/QLV9RLV28A2S)
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai](https://www.coursera.org/account/accomplishments/certificate/FWP8ELDYTEH5)
+* [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/DBJW28EKMP5Q)
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
