@@ -32,13 +32,3 @@ Courses done as a part of Data Science Minor at BITS Pilani:
 * CS F320:   [Foundations of Data Science](\public\pdfs\CS_F320_2266.pdf)
 * CS F415:   [Data Mining](public\pdfs\CS_F415_1322.pdf)(Ongoing)
 * CS F469:   [Information Retrieval](public\pdfs\CS_F469_1857.pdf)
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
