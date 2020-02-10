@@ -2,8 +2,8 @@
 layout: post
 title: About Me
 ---
- 
-Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science. 
+
+Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science.
 
 ### Skills Acquired along with Certificates
 
@@ -25,11 +25,14 @@ Artificial Intelligence:
 
 ### Academic Courses Completed
 
-Courses done as a part of [Data Science Minor] at BITS Pilani:
+Courses done as a part of Data Science Minor at BITS Pilani:
 
 
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+* CS F320: [Foundations of Data Science](\public\pdfs\CS_F320_2266.pdf)
+* MATH F432: [Applied Statistical Methods](\public\pdfs\MATH_F432_2273.pdf)
+* BITS F464: [Machine Learning](\public\pdfs\MATH_F432_2273.pdf)
+* CS F415: [Data Mining](public\pdfs\CS_F415_1322.pdf)
+* CS F469: [Information Retrieval](public\pdfs\CS_F469_1857.pdf)
 
 [Head to the readme](https://github.com/poole/hyde#readme) to learn more.
 
