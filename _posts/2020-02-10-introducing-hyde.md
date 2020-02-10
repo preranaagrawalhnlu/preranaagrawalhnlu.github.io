@@ -27,14 +27,11 @@ Artificial Intelligence:
 
 Courses done as a part of Data Science Minor at BITS Pilani:
 
-
-* CS F320: [Foundations of Data Science](\public\pdfs\CS_F320_2266.pdf)
 * MATH F432: [Applied Statistical Methods](\public\pdfs\MATH_F432_2273.pdf)
 * BITS F464: [Machine Learning](\public\pdfs\MATH_F432_2273.pdf)
-* CS F415: [Data Mining](public\pdfs\CS_F415_1322.pdf)
-* CS F469: [Information Retrieval](public\pdfs\CS_F469_1857.pdf)
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+* CS F320:   [Foundations of Data Science](\public\pdfs\CS_F320_2266.pdf)
+* CS F415:   [Data Mining](public\pdfs\CS_F415_1322.pdf)
+* CS F469:   [Information Retrieval](public\pdfs\CS_F469_1857.pdf)
 
 ### Browser support
 
