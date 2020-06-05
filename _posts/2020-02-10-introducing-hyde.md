@@ -3,4 +3,4 @@ layout: post
 title: About Me
 ---
 
-Hi! I’m Nitin Vinayak Agrawal, Junior at [BITS Pilani](https://www.bits-pilani.ac.in/) with a keen interest in deep learning and data science.
+Hi! I’m Prerana Agrawal, Second Year Law student at [HNLU](https://www.hnlu.ac.in/) actively looking for a 2020 winter internship.
